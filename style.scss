@@ -1,0 +1,8 @@
+.paragrapheBleu p{
+  background-color: lightblue;
+  &:hover{
+    background-color: black;
+    color: purple;
+    text-decoration: wavy underline pink;
+  }
+}

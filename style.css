@@ -1,0 +1,10 @@
+.paragrapheBleu p {
+  background-color: lightblue;
+}
+.paragrapheBleu p:hover {
+  background-color: black;
+  color: purple;
+  text-decoration: wavy underline pink;
+}
+
+/*# sourceMappingURL=style.css.map */
